@@ -1,8 +1,7 @@
 def dodawanie_liczb():
     a = int(input())
     b = int(input())
-    c = int(input())
-    wynik = a + b + c
+    wynik = a + b
     return wynik
 def odejmowanie_liczb():
     a = int(input())
