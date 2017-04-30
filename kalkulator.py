@@ -4,3 +4,4 @@ def dodawanie_liczb():
     c = int(input())
     wynik = a + b + c
     return wynik
+print (dodawanie_liczb())
