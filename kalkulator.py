@@ -1,5 +1,6 @@
 def dodawanie_liczb():
     a = int(input())
     b = int(input())
-    wynik = a+b
+    c = int(input())
+    wynik = a + b + c
     return wynik
